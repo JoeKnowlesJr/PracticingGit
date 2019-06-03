@@ -1,0 +1,22 @@
+body{
+    font-family: sans-serif;
+}
+table caption{
+    color: blue;
+    font-size: 23px;
+    caption-side: top;
+}
+table, th, td{
+    border: black 1px solid;
+    border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+}
+th{
+    font-size: 19px;
+}
+#report{
+    float: right;
+    margin: 40px;
+}
